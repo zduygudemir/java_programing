@@ -1,4 +1,4 @@
-package day_11_conditional_statements;
+package day11_comperation_operators;
 
 public class CompareChars {
     public static void main(String[] args){

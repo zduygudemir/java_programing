@@ -1,5 +1,6 @@
-package day_11_conditional_statements;
+package day11_comperation_operators;
 import java.util.Scanner;
+
 public class AmazonFreeShipping {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
